@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-08-02T03:21:34",
+  "last_updated": "2026-08-02T03:21:58",
   "html": {
     "https://web.archive.org/web/20240830081146if_/https://twitter.com/AiLiAnSong/status/1829431805453238585": {
       "status": "done",
@@ -213,9 +213,9 @@
       "referenced_by": [
         "20240906195200_twitter_com_AiLiAnSong_status_1832144740839780686.json"
       ],
-      "last_updated": "2026-08-02T03:17:33",
+      "last_updated": "2026-08-02T03:21:58",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20240906195200/https://pbs.twimg.com/media/GWy77XwXcAALU5W.jpg",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://pbs.twimg.com/media/GW4mptAXUAAMgW5.jpg": {
       "status": "done",
