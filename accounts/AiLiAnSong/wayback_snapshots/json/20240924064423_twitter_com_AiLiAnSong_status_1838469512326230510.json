@@ -1,0 +1,86 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1829090188972412928",
+    "conversation_id": "1838469512326230510",
+    "created_at": "2024-09-24T06:44:23.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-24T07:44:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1838469512326230510"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1838469512326230510",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "为什么a，明明我才刚成为男娘，明明我还有爱的人，明明我还幻想过未来，为什么。。。。我在这地方想跳楼也跳不了，还有谁能帮我，为什么你们休学在家就能玩，而我要遭罪 我绝对不活了，我爱你们。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829090188972412928",
+        "conversation_id": "1838469512326230510",
+        "created_at": "2024-09-24T06:44:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-24T07:44:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1838469512326230510"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1838469512326230510",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么a，明明我才刚成为男娘，明明我还有爱的人，明明我还幻想过未来，为什么。。。。我在这地方想跳楼也跳不了，还有谁能帮我，为什么你们休学在家就能玩，而我要遭罪 我绝对不活了，我爱你们。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-29T09:34:32.000Z",
+        "description": "哈喽，新入驻是小南梁，抖音账号同名（仅仅想学习更多的南梁知识，努力成为超好看的小男娘，拒绝任何涉及政治方面的话题）",
+        "id": "1829090188972412928",
+        "location": "China CQ",
+        "name": "song",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832047939524689920/SaYuUCJM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 26,
+          "like_count": 376,
+          "listed_count": 0,
+          "tweet_count": 35
+        },
+        "username": "AiLiAnSong",
+        "verified": false
+      }
+    ]
+  }
+}

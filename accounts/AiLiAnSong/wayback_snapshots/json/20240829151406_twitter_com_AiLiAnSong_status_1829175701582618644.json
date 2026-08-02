@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1829090188972412928",
+    "conversation_id": "1829150989867462940",
+    "created_at": "2024-08-29T15:14:06.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-29T16:14:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1829175701582618644"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1703802032786956288",
+          "start": 0,
+          "username": "Yingyaosese"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1829175701582618644",
+    "in_reply_to_user_id": "1703802032786956288",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1829150989867462940",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yingyaosese 原地解决（bushi）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829090188972412928",
+        "conversation_id": "1829150989867462940",
+        "created_at": "2024-08-29T15:14:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-29T16:14:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1829175701582618644"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1703802032786956288",
+              "start": 0,
+              "username": "Yingyaosese"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1829175701582618644",
+        "in_reply_to_user_id": "1703802032786956288",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1829150989867462940",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yingyaosese 原地解决（bushi）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1829150748896313344",
+            "3_1829150930568454144"
+          ]
+        },
+        "author_id": "1703802032786956288",
+        "conversation_id": "1829150989867462940",
+        "created_at": "2024-08-29T13:35:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-29T14:35:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1829150989867462940"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "男娘"
+            },
+            {
+              "end": 7,
+              "start": 4,
+              "tag": "伪娘"
+            },
+            {
+              "end": 14,
+              "start": 8,
+              "tag": "伪娘の日常"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kjph2qqea5",
+              "end": 89,
+              "expanded_url": "https://twitter.com/Yingyaosese/status/1829150989867462940/photo/1",
+              "media_key": "3_1829150748896313344",
+              "start": 66,
+              "url": "https://t.co/KjPh2qQea5"
+            },
+            {
+              "display_url": "pic.x.com/kjph2qqea5",
+              "end": 89,
+              "expanded_url": "https://twitter.com/Yingyaosese/status/1829150989867462940/photo/1",
+              "media_key": "3_1829150930568454144",
+              "start": 66,
+              "url": "https://t.co/KjPh2qQea5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1829150989867462940",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1437,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "#男娘 #伪娘 #伪娘の日常 \n呜呜，地雷妹乖乖回高中读书啦~ฅ( • v • ฅ)\n大家说咱该进左边的厕所还是右边的呢~❤️💜💙 https://t.co/KjPh2qQea5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-29T09:34:32.000Z",
+        "description": "哈喽，新入驻是小南梁，抖音账号同名",
+        "id": "1829090188972412928",
+        "location": "China CQ",
+        "name": "song",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829090404706463744/7fPDLyoS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 3,
+          "like_count": 1,
+          "listed_count": 0,
+          "tweet_count": 2
+        },
+        "username": "AiLiAnSong",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-18T16:04:11.000Z",
+        "description": "欢迎喜欢男娘的大家来到这里~是yl男娘♂♀❤❤！⭕！喜欢漂亮的衣服和袜子，喜欢超爱贴贴！欢迎大家来看我~我会努力的！PS：（身体擅自发情ing🔥🔥",
+        "id": "1703802032786956288",
+        "name": "萤草（！）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1703802371858653184/BZHi4FSW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2265,
+          "following_count": 30,
+          "like_count": 65,
+          "listed_count": 8,
+          "tweet_count": 73
+        },
+        "username": "Yingyaosese",
+        "verified": false
+      }
+    ]
+  }
+}
