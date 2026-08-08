@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-08-08T03:42:53",
+  "last_updated": "2026-08-08T03:43:18",
   "html": {
     "https://web.archive.org/web/20240830081146if_/https://twitter.com/AiLiAnSong/status/1829431805453238585": {
       "status": "done",
@@ -433,32 +433,32 @@
       "last_updated": "2026-08-02T03:18:01"
     },
     "https://pbs.twimg.com/profile_images/1828301159737835520/x6oso47O_normal.jpg": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20240906174216_twitter_com_AiLiAnSong_status_1832112091366306179.json",
         "20240906194901_twitter_com_AiLiAnSong_status_1832143989241516397.json"
       ],
-      "last_updated": "2026-08-02T03:22:45",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20240906194901im_/https://pbs.twimg.com/profile_images/1828301159737835520/x6oso47O_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbb17de7f50>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 2
+      "last_updated": "2026-08-08T03:43:18",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20240906194901if_/https://pbs.twimg.com/profile_images/1828301159737835520/x6oso47O_normal.jpg",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/profile_images/1829186269328351232/wG4JiRAU_normal.jpg": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20240906195200_twitter_com_AiLiAnSong_status_1832144740839780686.json"
       ],
-      "last_updated": "2026-08-02T03:22:48",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20240906195200im_/https://pbs.twimg.com/profile_images/1829186269328351232/wG4JiRAU_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbb17e35400>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 2
+      "last_updated": "2026-08-08T03:43:15",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20240906195200if_/https://pbs.twimg.com/profile_images/1829186269328351232/wG4JiRAU_normal.jpg",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/profile_images/1825095535247937537/7FaUMAly_normal.jpg": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20240907003745_twitter_com_AiLiAnSong_status_1832216650646487211.json"
       ],
-      "last_updated": "2026-08-02T03:22:51",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20240907003745im_/https://pbs.twimg.com/profile_images/1825095535247937537/7FaUMAly_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbb17e37da0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 2
+      "last_updated": "2026-08-08T03:43:13",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20240907003745if_/https://pbs.twimg.com/profile_images/1825095535247937537/7FaUMAly_normal.jpg",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/profile_images/1742530929263104000/IALD6jyW_normal.jpg": {
       "status": "done",
@@ -752,7 +752,7 @@
       "last_updated": "2026-08-02T03:18:01"
     },
     "20240906174216_twitter_com_AiLiAnSong_status_1832112091366306179.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -761,11 +761,11 @@
           "https://pbs.twimg.com/profile_images/1828301159737835520/x6oso47O_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-08T03:42:53",
+      "last_updated": "2026-08-08T03:43:18",
       "miss_count": 2
     },
     "20240906194901_twitter_com_AiLiAnSong_status_1832143989241516397.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -774,11 +774,11 @@
           "https://pbs.twimg.com/profile_images/1828301159737835520/x6oso47O_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-08T03:42:53",
+      "last_updated": "2026-08-08T03:43:18",
       "miss_count": 2
     },
     "20240906195200_twitter_com_AiLiAnSong_status_1832144740839780686.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/GWy77XwXcAALU5W.jpg"
@@ -789,11 +789,11 @@
           "https://pbs.twimg.com/profile_images/1829186269328351232/wG4JiRAU_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-08T03:42:53",
+      "last_updated": "2026-08-08T03:43:15",
       "miss_count": 2
     },
     "20240907003745_twitter_com_AiLiAnSong_status_1832216650646487211.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -802,7 +802,7 @@
           "https://pbs.twimg.com/profile_images/1825095535247937537/7FaUMAly_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-08T03:42:53",
+      "last_updated": "2026-08-08T03:43:13",
       "miss_count": 2
     },
     "20240907095924_twitter_com_AiLiAnSong_status_1832357995805864061.json": {
