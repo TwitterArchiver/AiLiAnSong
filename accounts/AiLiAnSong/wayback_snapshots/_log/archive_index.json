@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-08-02T03:22:51",
+  "last_updated": "2026-08-08T03:42:40",
   "html": {
     "https://web.archive.org/web/20240830081146if_/https://twitter.com/AiLiAnSong/status/1829431805453238585": {
       "status": "done",
@@ -213,9 +213,9 @@
       "referenced_by": [
         "20240906195200_twitter_com_AiLiAnSong_status_1832144740839780686.json"
       ],
-      "last_updated": "2026-08-02T03:21:58",
+      "last_updated": "2026-08-08T03:42:40",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20240906195200/https://pbs.twimg.com/media/GWy77XwXcAALU5W.jpg",
-      "miss_count": 2
+      "miss_count": 3
     },
     "https://pbs.twimg.com/media/GW4mptAXUAAMgW5.jpg": {
       "status": "done",
@@ -761,7 +761,8 @@
           "https://pbs.twimg.com/profile_images/1828301159737835520/x6oso47O_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-02T03:22:45"
+      "last_updated": "2026-08-08T03:42:33",
+      "miss_count": 1
     },
     "20240906194901_twitter_com_AiLiAnSong_status_1832143989241516397.json": {
       "status": "failed",
@@ -773,7 +774,8 @@
           "https://pbs.twimg.com/profile_images/1828301159737835520/x6oso47O_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-02T03:22:45"
+      "last_updated": "2026-08-08T03:42:33",
+      "miss_count": 1
     },
     "20240906195200_twitter_com_AiLiAnSong_status_1832144740839780686.json": {
       "status": "failed",
@@ -787,7 +789,8 @@
           "https://pbs.twimg.com/profile_images/1829186269328351232/wG4JiRAU_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-02T03:22:48"
+      "last_updated": "2026-08-08T03:42:40",
+      "miss_count": 1
     },
     "20240907003745_twitter_com_AiLiAnSong_status_1832216650646487211.json": {
       "status": "failed",
@@ -799,7 +802,8 @@
           "https://pbs.twimg.com/profile_images/1825095535247937537/7FaUMAly_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-02T03:22:51"
+      "last_updated": "2026-08-08T03:42:33",
+      "miss_count": 1
     },
     "20240907095924_twitter_com_AiLiAnSong_status_1832357995805864061.json": {
       "status": "done",
